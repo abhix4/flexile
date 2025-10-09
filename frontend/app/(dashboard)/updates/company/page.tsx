@@ -210,7 +210,7 @@ const AdminList = ({ onEditUpdate }: { onEditUpdate: (update: UpdateListItem) =>
                 param={deletingUpdate ?? ""}
                 loadingText="Deleting..."
               >
-                Yes, delete
+                Yes, deletee
               </MutationButton>
             </div>
           </DialogFooter>
